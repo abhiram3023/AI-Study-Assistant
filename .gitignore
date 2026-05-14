@@ -15,7 +15,7 @@ target/
 .sts4-cache
 
 ### IntelliJ ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -39,5 +39,5 @@ out/
 Thumbs.db
 
 ### Secrets ###
-application-secret.properties
 .env
+application-secret.properties
