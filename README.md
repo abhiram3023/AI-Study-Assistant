@@ -214,18 +214,58 @@ http://localhost:8080
 # Screenshots
 
 Add screenshots inside:
+# Project Screenshots
 
-```text
-Screenshots/
-```
+<p align="center">
+  <img src="Screenshots/AI_assistant_op1.png" width="800"/>
+</p>
 
-Example:
+<p align="center">
+  <img src="Screenshots/AI_assistant_op2.png" width="800"/>
+</p>
 
-```md
-![Home](Screenshots/home.png)
-![Dashboard](Screenshots/dashboard.png)
-![Chatbot](Screenshots/chatbot.png)
-```
+<p align="center">
+  <img src="Screenshots/AI_assistant_op3.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op4.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op5.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op6.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op7.png" width="800"/>
+</p>
+
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op8.png" width="800"/>
+</p>
+
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op9.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op10.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op11.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/AI_assistant_op12.png" width="800"/>
+</p>
+
 
 ---
 
